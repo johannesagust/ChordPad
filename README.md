@@ -1,1 +1,1 @@
-# ChordPad - Professional VST Plugin
+# ChordPad
